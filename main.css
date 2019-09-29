@@ -1,0 +1,24 @@
+.Intro{text-align: center;
+font-family: fantasy;}
+
+.bull-shark{
+  font-family:cursive;
+  background-color: #91b029;
+}
+
+body{
+  background-color: red;
+  margin-left:0;
+  margin-right: 0;
+}
+
+.wiki{float:left}
+
+img{border-radius: 50%;}
+
+hr{
+  border:0;
+  border-bottom: 5px dotted grey;
+  width:10%;
+  margin-bottom:50px;
+}
